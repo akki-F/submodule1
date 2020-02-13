@@ -1,0 +1,3 @@
+[submodule "subObSub"]
+	path = subObSub
+	url = https://github.com/akki-F/subObSub.git
